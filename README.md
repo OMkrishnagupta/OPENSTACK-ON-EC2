@@ -1,5 +1,5 @@
 # OPENSTACK-ON-EC2
-# **OPENSTACK-IN-EC2**
+
 
 This README provides detailed steps on how to set up any **Openstack** in an **EC2 Instance**.
 
